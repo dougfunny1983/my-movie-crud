@@ -42,7 +42,7 @@ class MovieDetails extends Component {
               <p>{`Rating: ${rating}`}</p>
             </div>
             <div className="card-action">
-              <Link to={`/my-movie-crud/movies/${this.props.match.params.id}/edit`}> EDITAR </Link>
+              <Link to={`/my-movie-crud/movies/${this.props.match.params.id}/edit/`}> EDITAR </Link>
               <Link to="/my-movie-crud/"> VOLTAR </Link>
               <Link to="/my-movie-crud/" onClick={() => movieAPI.deleteMovie(this.props.match.params.id)}>
                 DELETAR

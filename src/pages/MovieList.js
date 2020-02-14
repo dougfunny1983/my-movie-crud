@@ -37,7 +37,7 @@ class MovieList extends Component {
           ))}
         </div>
         <footer>
-          <Link to="/my-movie-crud/movies/new/" className="btn">
+          <Link to="/my-movie-crud/movies/new" className="btn">
             ADICIONAR CARTÃO
           </Link>
         </footer>

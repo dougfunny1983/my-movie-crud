@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-movie-crud/static/css/main.1a69d08f.chunk.css",
-    "main.js": "/my-movie-crud/static/js/main.4c8861f1.chunk.js",
-    "main.js.map": "/my-movie-crud/static/js/main.4c8861f1.chunk.js.map",
+    "main.js": "/my-movie-crud/static/js/main.c5a1b69c.chunk.js",
+    "main.js.map": "/my-movie-crud/static/js/main.c5a1b69c.chunk.js.map",
     "runtime-main.js": "/my-movie-crud/static/js/runtime-main.f0497bf1.js",
     "runtime-main.js.map": "/my-movie-crud/static/js/runtime-main.f0497bf1.js.map",
     "static/js/2.d7462832.chunk.js": "/my-movie-crud/static/js/2.d7462832.chunk.js",
     "static/js/2.d7462832.chunk.js.map": "/my-movie-crud/static/js/2.d7462832.chunk.js.map",
     "index.html": "/my-movie-crud/index.html",
-    "precache-manifest.664f415033ec5368558a24e6c1251442.js": "/my-movie-crud/precache-manifest.664f415033ec5368558a24e6c1251442.js",
+    "precache-manifest.14ae0be2e97c9abad377faa034cc71d7.js": "/my-movie-crud/precache-manifest.14ae0be2e97c9abad377faa034cc71d7.js",
     "service-worker.js": "/my-movie-crud/service-worker.js",
     "static/css/main.1a69d08f.chunk.css.map": "/my-movie-crud/static/css/main.1a69d08f.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.f0497bf1.js",
     "static/js/2.d7462832.chunk.js",
     "static/css/main.1a69d08f.chunk.css",
-    "static/js/main.4c8861f1.chunk.js"
+    "static/js/main.c5a1b69c.chunk.js"
   ]
 }

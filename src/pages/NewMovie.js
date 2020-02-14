@@ -19,8 +19,8 @@ class NewMovie extends Component {
   }
 
   render() {
-    const { teste } = this.state.shouldRedirect;
-    if (teste) return <Redirect to="/my-movie-crud/" />;
+    const { shouldRedirect } = this.state;
+    if (shouldRedirect) return <Redirect to="/my-movie-crud/" />;
     return <MovieForm onSubmit={this.handleSubmit} />;
   }
 }
